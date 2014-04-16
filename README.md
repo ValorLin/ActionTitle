@@ -7,6 +7,10 @@ Action Title
     $.ActionTitle.show('This is a ACTION title!');
       
     $.ActionTitle.clear();
+    
+如果不使用 JQuery 的话:
+
+    ActionTitle.show('This is a ACTION title!');
 
 高级用法
 ---------
