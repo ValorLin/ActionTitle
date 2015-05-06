@@ -19,3 +19,7 @@ Action Title
     	text: 'This is a ACTION title!',
     	fps: 6
     });
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/weilao/actiontitle/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
